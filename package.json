@@ -1,0 +1,23 @@
+{
+  "name": "vue-ant-admin",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.1.2",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.5",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "babel-plugin-import": "^1.13.3",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettierrc": "0.0.0-5",
+    "typescript": "^4.2.3",
+    "vite": "^2.1.5"
+  }
+}
